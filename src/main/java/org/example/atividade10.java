@@ -6,15 +6,15 @@ public class atividade10 {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Digite a média final do aluno: ");
+        System.out.print("digitw a media final do aluno: ");
         double media = sc.nextDouble();
 
         if (media >= 7.0) {
             System.out.println("aprovado");
         } else if (media >= 5.0) {
-            System.out.println("Recuperacao");
+            System.out.println("recuperacao");
         } else {
-            System.out.println("Reprovado");
+            System.out.println("reprovad");
         }
 
     }
