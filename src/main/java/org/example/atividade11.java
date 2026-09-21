@@ -8,10 +8,10 @@ public class atividade11 {
         System.out.print("digite o primeiro numero : ");
         int n1 = sc.nextInt();
 
-        System.out.print("digite o segundo número: ");
+        System.out.print("digite o segundo numero: ");
         int n2 = sc.nextInt();
 
-        System.out.print("digite o terceiro número: ");
+        System.out.print("digite o terceiro numero: ");
         int n3 = sc.nextInt();
 
         int maior;
@@ -24,7 +24,7 @@ public class atividade11 {
             maior = n3;
         }
 
-        System.out.println("o maiors  é: " + maior);
+        System.out.println("o maiors  e: " + maior);
 
 
         
