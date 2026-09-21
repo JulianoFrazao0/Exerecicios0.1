@@ -11,7 +11,7 @@ public class atividade11 {
         System.out.print("digite o segundo numero: ");
         int n2 = sc.nextInt();
 
-        System.out.print("digite o terceiro numero: ");
+        System.out.print("digite o terceiro numer: ");
         int n3 = sc.nextInt();
 
         int maior;
