@@ -20,15 +20,15 @@ public class Atividade2 {
 
         if (chose == 1) {
             int calculo_sum = num + num1;
-            System.out.println("O calculo é: "+ calculo_sum);
+            System.out.println("O calculo e: "+ calculo_sum);
             
         } else if (chose == 2) {
             int calculo_sub = num + num1;
-            System.out.println("O calculo é: "+ calculo_sub);
+            System.out.println("O calculo e: "+ calculo_sub);
             
         } else if (chose == 3) {
             int calculo_div = num + num1;
-            System.out.println("O calculo é: "+ calculo_div);
+            System.out.println("O calculo e: "+ calculo_div);
         }
 
 

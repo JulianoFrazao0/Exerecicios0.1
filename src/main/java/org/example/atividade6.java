@@ -12,8 +12,8 @@ public class atividade6 {
         double perimetro = 2 * Math.PI * raio;
 
         System.out.println("Resultados");
-        System.out.printf("Área do círculo: %.2f", area);
-        System.out.printf("Perímetro do círculo: %.2f", perimetro);
+        System.out.printf("Área do círculo: ", area);
+        System.out.printf("Perímetro do círculo: ", perimetro);
 
 
 
