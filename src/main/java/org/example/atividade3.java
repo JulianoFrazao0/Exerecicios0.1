@@ -20,7 +20,7 @@ public class atividade3 {
         if (conver == 1) {
             double calculo = real * 5.22;
 
-            System.out.println("A conversao ficou: " + calculo);
+            System.out.println("a conversao ficou: " + calculo);
         }
         else {
             System.out.println("Obrigado pela escolha.");
